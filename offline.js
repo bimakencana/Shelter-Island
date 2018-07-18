@@ -1,0 +1,32 @@
+﻿{
+	"version": 1531891931,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/bg-sheet0.png",
+		"images/zombie-sheet0.png",
+		"images/zombie-sheet1.png",
+		"images/plants-sheet0.png",
+		"images/shoot1-sheet0.png",
+		"images/hud_bg-sheet0.png",
+		"images/plantcards-sheet0.png",
+		"images/camadas.png",
+		"images/dinheiro.png",
+		"images/cards_cooldownbar-sheet0.png",
+		"images/sol-sheet0.png",
+		"images/sol_sigame-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite-sheet1.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"pathfind.js"
+	]
+}
